@@ -1,8 +1,6 @@
 class MyStack {
 
-    public MyStack() {
-       
-    }
+   
      Queue<Integer> queue=new LinkedList<>();
     public void push(int x) {
         queue.offer(x);
