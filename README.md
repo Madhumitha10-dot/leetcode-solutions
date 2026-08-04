@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0877-stone-game](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/0877-stone-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -82,4 +84,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
