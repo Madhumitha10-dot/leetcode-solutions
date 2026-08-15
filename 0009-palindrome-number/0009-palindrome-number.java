@@ -11,6 +11,6 @@ class Solution {
             num = num / 10;
         }
 
-        return x == rev;
+       return x == rev;
     }
 }
