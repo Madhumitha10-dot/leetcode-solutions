@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/0896-monotonic-array) |
 ## Bit Manipulation
 |  |
 | ------- |
