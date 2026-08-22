@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/0896-monotonic-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/0704-binary-search) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -162,4 +165,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
