@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Array
 |  |
 | ------- |
