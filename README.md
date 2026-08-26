@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/1280-students-and-examinations) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1693-daily-leads-and-partners](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/1693-daily-leads-and-partners) |
 ## DP on Trees
 |  |
 | ------- |
