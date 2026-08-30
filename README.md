@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/0896-monotonic-array) |
+| [0941-valid-mountain-array](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Madhumitha10-dot/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
